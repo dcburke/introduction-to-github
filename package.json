@@ -1,4 +1,9 @@
 {
-"name" : "dburke package",
-"version" : "0.0.1"
+"name" : "Intro to GH dburke",
+"version" : "0.0.1",
+"description" : "A test of publishing to npm",
+"main" : "README.md",
+"keywords" : ["test", "fake"],
+"author" : "David Burke",
+"licence" : "ISC"
 }
